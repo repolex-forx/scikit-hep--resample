@@ -1,0 +1,11 @@
+{
+  "org": "scikit-hep",
+  "repo": "resample",
+  "versions": [
+    {
+      "commit": "2774eaaeb30c9de727815c3a62953ad3e7fa94d7",
+      "tag": "",
+      "parsed_at": "2026-10-15T20:16:19.362126+00:00"
+    }
+  ]
+}
